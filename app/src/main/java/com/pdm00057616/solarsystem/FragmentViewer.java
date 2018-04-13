@@ -29,7 +29,7 @@ public class FragmentViewer extends Fragment{
             planetP=(Planet)planet;
             System.out.println(planetP.toString());
             textViewName.setText(planetP.getName());
-            textViewName.setTextColor(  planetP.getColor());
+            textViewName.setTextColor(getResources().getColor(planetP.getColor()));
             textViewContent.setText(planetP.getContent());
             imageView.setImageResource(planetP.getImageView());
         }

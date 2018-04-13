@@ -3,4 +3,14 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <!-- Custom -->
+    <color name="Mercury">#c1c1c0</color>
+    <color name="Venus">#e58357</color>
+    <color name="Earth">#c5d892</color>
+    <color name="Mars">#e5b585</color>
+    <color name="Jupiter">#fa8560</color>
+    <color name="Saturn">#f8e2ac</color>
+    <color name="Uranus">#57d5fb</color>
+    <color name="Neptune">#569ffa</color>
 </resources>

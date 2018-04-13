@@ -34,7 +34,8 @@ public class Main2Activity extends AppCompatActivity {
         textViewName.setText(textName);
         textViewContent.setText(planet1.getContent());
         imageView.setImageResource(planet1.getImageView());
-        textViewName.setTextColor(planet1.getColor());
+        textViewName.setTextColor(getResources().getColor(planet1.getColor()));
+        System.out.println(planet1.getColor());
 
     }
 

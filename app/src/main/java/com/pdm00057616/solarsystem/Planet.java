@@ -32,6 +32,10 @@ public class Planet implements Serializable{
         this.indice=indice;
     }
 
+
+    /**
+     * @return the value of the planet image id
+     */
     public int getImageView(){
         return imageViewHashMap.get(indice);
     }
@@ -48,6 +52,10 @@ public class Planet implements Serializable{
         imageViewHashMap.put(7, R.drawable.neptune_8);
     }
 
+
+    /**
+     * @return the value of the string id used for description
+     */
     public int getContent(){
         switch (indice){
             case 0: return R.string.Mercury;
@@ -62,6 +70,11 @@ public class Planet implements Serializable{
         return 10;
     }
 
+
+    /**
+     * @return the value of the color id by planet
+     * @author Pedro Gómez
+     */
     public int getColor(){
         switch (indice){
             case 0: return R.color.Mercury;

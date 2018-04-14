@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorPrimary">#c62828</color>
+    <color name="colorPrimaryDark">#b71c1c</color>
     <color name="colorAccent">#FF4081</color>
 
     <!-- Custom -->
-    <color name="Mercury">#c1c1c0</color>
-    <color name="Venus">#e58357</color>
-    <color name="Earth">#c5d892</color>
-    <color name="Mars">#e5b585</color>
-    <color name="Jupiter">#fa8560</color>
-    <color name="Saturn">#f8e2ac</color>
-    <color name="Uranus">#57d5fb</color>
-    <color name="Neptune">#569ffa</color>
+    <color name="Mercury">#bdbdbd</color>
+    <color name="Venus">#ff8a65</color>
+    <color name="Earth">#7cb342</color>
+    <color name="Mars">#ffab91</color>
+    <color name="Jupiter">#ff8a65</color>
+    <color name="Saturn">#ffb74d</color>
+    <color name="Uranus">#4fc3f7</color>
+    <color name="Neptune">#42a5f5</color>
 </resources>

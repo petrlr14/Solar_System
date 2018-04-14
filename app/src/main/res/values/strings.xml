@@ -1,24 +1,21 @@
 <resources>
     <string name="app_name">Solar System</string>
     <string-array name="Planets">
-        <item>Mercury</item>
-        <item>Venus</item>
-        <item>Earth</item>
-        <item>Mars</item>
-        <item>Jupiter</item>
-        <item>Saturn</item>
-        <item>Uranus</item>
-        <item>Neptune</item>
+        <item>@string/mercury_name</item>
+        <item>@string/venus_name</item>
+        <item>@string/earth_name</item>
+        <item>@string/mars_name</item>
+        <item>@string/jupiter_name</item>
+        <item>@string/saturn_name</item>
+        <item>@string/uranus_name</item>
+        <item>@string/neptune_name</item>
     </string-array>
+
     <string name="Mercury">The planet Mercury is the closest to the Sun and is also the smallest of the planets, and is named after the Roman God. Who was the Roman god of trade, thieves, and travel, as well as the Greek god Hermes, the messenger of the Gods, who is sometimes depicted wearing winged sandals.
 
         Mercury orbits the Sun roughly once every 87.970 Earth days, and rotates once every 58.647 Earth days. The Suns rays are approximately seven times stronger on Mercury than they are on Earth.
 
         During the exploration of our Solar System, Mercury has been visited by two space probes Mariner 10 and Messenger.</string>
-
-    <string name="Venus">Venus is the second planet from the Sun and orbits the Sun every 224.7 Earth days. Venus is known as Earth’s Twin sister due to its similar size, and proximity to each other. It has a diameter of 7,520 miles is just 400 miles smaller than that of Earth.
-
-        The planet has been named after the Roman goddess of love and Beauty, and after the Earth’s Moon is the brightest natural object in the night Sky.</string>
 
     <string name="Earth">The Earth is the third planet from the Sun, it is the fifth largest planet of the eight planets in our Solar System, Earth is 93 million miles from the Sun.
 
@@ -45,5 +42,15 @@
     <string name="Neptune">Neptune is the 8th planet in our Solar System and the furthest from the Sun, being some 2,798,310,157 miles from the Sun. This was the first planet to be found using mathematics rather than observation techniques. Neptune is the fourth-largest planet by diameter and the third-largest by mass.
 
     Neptune as with Uranus is an Gas Giant and also an Ice Giant, and has 12 known moons orbiting it, and the planet orbits the Sun every 165 Earth years and has been named after the Roman god of the sea</string>
+    <string name="Venus">Venus is the second planet from the Sun and orbits the Sun every 224.7 Earth days. Venus is known as Earth’s Twin sister due to its similar size, and proximity to each other. It has a diameter of 7,520 miles is just 400 miles smaller than that of Earth. The planet has been named after the Roman goddess of love and Beauty, and after the Earth’s Moon is the brightest natural object in the night Sky.</string>
+    <string name="mercury_name">Mercury</string>
+    <string name="venus_name">Venus</string>
+    <string name="earth_name">Earth</string>
+    <string name="jupiter_name">Jupiter</string>
+    <string name="mars_name">Mars</string>
+    <string name="saturn_name">Saturn</string>
+    <string name="uranus_name">Uranus</string>
+    <string name="neptune_name">Neptune</string>
+    <string name="select_a_planet">Select a planet</string>
 
 </resources>
